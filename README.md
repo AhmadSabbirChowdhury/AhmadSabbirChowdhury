@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SpHks9AqSqQjOmPhncDO0CuJGC3baVei/view?usp=sharing](https://drive.google.com/file/d/1SpHks9AqSqQjOmPhncDO0CuJGC3baVei/view?usp=sharing)
 
-- ⚡ Fun fact **, I do think we're living inside a simulation.**
+- ⚡ Fun fact **, I do think we're living in a simulation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
