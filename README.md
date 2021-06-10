@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Data Analysis and Deep Learning Projects](https://github.com/AhmadSabbirChowdhury/Microsoft-AdventureWorks-Database-Analysis-Visualization-with-PowerBI)
 
-- 🌱 I’m currently learning **Data Visualizing (PowerBI, Tableau), Web Development (Django)**
+- 🌱 I’m currently learning **Data Visualization (PowerBI, Tableau), Web Development (Django)**
 
 - 🤝 I’m looking for help with **Database Design, Backend Development**
 
