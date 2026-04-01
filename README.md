@@ -93,14 +93,28 @@ I've published research at **IEEE BIBM 2024**, built CNN-based diagnostic tools 
 ### GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadsabbirchowdhury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=F77F00&title_color=00B4D8&text_color=ADBAC7&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsabbirchowdhury&theme=tokyonight&hide_border=true&ring=00B4D8&fire=F77F00&currStreakLabel=00B4D8&background=0D1117" width="48%" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadsabbirchowdhury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=F77F00&title_color=00B4D8&text_color=ADBAC7&bg_color=0D1117"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadsabbirchowdhury&show_icons=true&hide_border=true&count_private=true&icon_color=F77F00&title_color=00B4D8"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadsabbirchowdhury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=F77F00&title_color=00B4D8&text_color=ADBAC7&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
+  </picture>
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ahmadsabbirchowdhury&theme=tokyonight&hide_border=true&ring=00B4D8&fire=F77F00&currStreakLabel=00B4D8&background=0D1117"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ahmadsabbirchowdhury&hide_border=true&ring=00B4D8&fire=F77F00&currStreakLabel=00B4D8"/>
+      <img src="https://streak-stats.demolab.com/?user=ahmadsabbirchowdhury&theme=tokyonight&hide_border=true&ring=00B4D8&fire=F77F00&currStreakLabel=00B4D8&background=0D1117" width="48%" alt="GitHub Streak"/>
+    </picture>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsabbirchowdhury&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&title_color=00B4D8&bg_color=0D1117" width="45%" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadsabbirchowdhury&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&title_color=00B4D8&bg_color=0D1117"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadsabbirchowdhury&layout=compact&hide_border=true&langs_count=10&title_color=00B4D8"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadsabbirchowdhury&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&title_color=00B4D8&bg_color=0D1117" width="45%" alt="Top Languages"/>
+  </picture>
 </div>
 
 <br/>
