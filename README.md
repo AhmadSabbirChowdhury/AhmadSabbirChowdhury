@@ -1,7 +1,10 @@
 <div align="center">
   
-<!-- Dynamic typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0C447C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Ahmad+Sabbir+Chowdhury;AI+Research+Analyst+%7C+Data+Scientist+%7C+ML+Engineer)](https://git.io/typing-svg)
+<!-- Name -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=2000&color=00B4D8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Ahmad+Sabbir+Chowdhury" alt="Name"/>
+
+<!-- Role -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=F77F00&center=true&vCenter=true&repeat=true&width=700&height=35&lines=AI+Research+Analyst+%40+Nova+Scotia+Health;MSc+Computer+Science+%7C+Acadia+University;Published+Researcher+%7C+IEEE+BIBM+2024;Machine+Learning+%7C+Data+Science+%7C+Healthcare+AI" alt="Roles"/>
 
 <p>
   <a href="https://www.linkedin.com/in/ahmadsabbirchowdhury/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -90,20 +93,38 @@ I've published research at **IEEE BIBM 2024**, built CNN-based diagnostic tools 
 ### GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadsabbirchowdhury&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=00000000" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsabbirchowdhury&theme=default&hide_border=true&background=00000000" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadsabbirchowdhury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=F77F00&title_color=00B4D8&text_color=ADBAC7&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsabbirchowdhury&theme=tokyonight&hide_border=true&ring=00B4D8&fire=F77F00&currStreakLabel=00B4D8&background=0D1117" width="48%" alt="GitHub Streak"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsabbirchowdhury&layout=compact&hide_border=true&bg_color=00000000&langs_count=8" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsabbirchowdhury&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&title_color=00B4D8&bg_color=0D1117" width="45%" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<!-- Activity graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadsabbirchowdhury&theme=react-dark&hide_border=true&area=true&line=00B4D8&point=F77F00&area_color=00B4D8" width="95%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmadsabbirchowdhury&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" width="95%" alt="Trophies"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadsabbirchowdhury&style=flat-square&color=0C447C" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ahmadsabbirchowdhury&style=for-the-badge&color=00B4D8" alt="Profile Views"/>
   
   **Open to collaboration on ML/AI research, healthcare data science, and open-source projects.**
   
   *Based in Nova Scotia, Canada 🇨🇦*
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=80&section=footer" width="100%"/>
 </div>
